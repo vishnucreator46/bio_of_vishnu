@@ -1,8 +1,13 @@
 .topic{
     background-color: blue;
+    display: inline-block;
+    margin-top: 60px;
+    width: 1520px;
+    height: 35px;
     color: cyan;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     display:block;
+}
 }
 
 .image{
